@@ -63,6 +63,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Player\PlayerAnim.cs" />
+    <Compile Include="Assets\Player\PlayerScript.cs" />
+    <Compile Include="Assets\Script's\BGScript.cs" />
+    <Compile Include="Assets\Script's\Parallax\ParallaxBackground.cs" />
+    <Compile Include="Assets\Script's\Parallax\ParallaxCamera.cs" />
+    <Compile Include="Assets\Script's\Parallax\ParallaxLayer.cs" />
     <Compile Include="Assets\Script's\SawScript.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.21f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -595,6 +601,9 @@
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Unity Projects/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>D:/Unity Projects/New Unity Project/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.2D.Animation.Runtime">
       <HintPath>D:/Unity Projects/New Unity Project/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
     </Reference>
@@ -657,6 +666,9 @@
     </Reference>
     <Reference Include="Unity.2D.Animation.Editor">
       <HintPath>D:/Unity Projects/New Unity Project/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>D:/Unity Projects/New Unity Project/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
       <HintPath>D:/Unity Projects/New Unity Project/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>

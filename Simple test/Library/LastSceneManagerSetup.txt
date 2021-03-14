@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Sheshesi/Desktop/GREATTY/Assets/1Level.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
